@@ -1,2 +1,4 @@
 Baris ke satu file 1
 Baris kedua ditambahkan di remote
+Baris tiga di lokal
+
